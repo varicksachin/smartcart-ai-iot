@@ -1,17 +1,20 @@
-# smartcart-ai-iot
-AI and IoT based smart grocery management system.
-An intelligent grocery management system using AI and IoT concepts.
+# SmartCart IoT Shopping System
+
+An IoT-based autonomous shopping system that automates product selection and billing in supermarkets.
 
 ## Features
-- Smart inventory tracking
-- Expiry monitoring
-- IoT sensor integration
-- AI recommendations
-- rfid
-  
+- RFID-based product tracking
+- Autonomous shopping workflow
+- Wireless communication
+- Automated billing
 
-## Technologies
+## Technologies Used
 - IoT
-- Sensors
-- Python
-- AI Concepts
+- RFID
+- Embedded Systems
+- Wireless Communication
+
+## Future Enhancements
+- QR payments
+- Camera-based detection
+- Scalable architecture
